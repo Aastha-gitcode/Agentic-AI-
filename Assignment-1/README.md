@@ -90,4 +90,4 @@ python app.py
 
 ## Author
 
-**Nirob Paul**
+**Aastha Bansal**
